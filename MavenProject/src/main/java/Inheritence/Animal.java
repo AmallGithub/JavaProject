@@ -1,14 +1,13 @@
 package Inheritence;
 
+public class Animal 
 
-public class Animal {
-	
-	public static void main(String args[])
+{
+	int a=6;
+	public void eat()
 	{
-
-		System.out.println("Hi");
+		System.out.println("Base class value is"+a);
 	}
 	
 
 }
-
